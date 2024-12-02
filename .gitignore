@@ -1,1 +1,4 @@
 .env
+kaggle_data/
+audio_features.csv
+lyrics.csv
