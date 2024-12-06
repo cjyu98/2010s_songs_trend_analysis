@@ -1,4 +1,5 @@
 .env
 kaggle_data/
+fig/
 audio_features.csv
 lyrics.csv
