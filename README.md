@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project looks at the Spotify audio features and lyrics of the songs *Billboard Hot 100* year end charts from the years of 2010 to 2023. 
+This project explores the trends and themes of Spotify audio features and lyrics of the songs *Billboard Hot 100* year end charts from the years of 2010 to 2023. 
 
 Audio features are analyzed for trends using STL decomposition, vector autoregressive models, and Granger Causality tests.
 
