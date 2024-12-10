@@ -37,4 +37,5 @@ In addition to above, the project is carried out in Python (ver 3.10) set up via
 
 All libraries and modules used are listed in the first cell for every `ipynb` file. 
 
-
+## License
+- This project is licensed under the MIT License.  
